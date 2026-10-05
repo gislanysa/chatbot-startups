@@ -1,0 +1,80 @@
+{
+    "tema": "Plataforma de matchmaking entre startups e empresas",
+    "faq": [
+        {
+            "pergunta": "Preciso ter CNPJ pra me cadastrar?",
+            "resposta": "Sim. Hoje o cadastro exige um CNPJ válido (14 dígitos), que é um campo obrigatório no formulário.",
+            "palavras_chave": [
+                "cnpj",
+                "cadastro",
+                "cadastrar",
+                "obrigatorio"
+            ]
+        },
+        {
+            "pergunta": "O cadastro é pago?",
+            "resposta": "Não. O cadastro é gratuito e seu perfil aparece normalmente nas buscas, sem nenhuma cobrança.",
+            "palavras_chave": [
+                "pago",
+                "pagar",
+                "gratis",
+                "gratuito",
+                "cobranca",
+                "preco",
+                "cadastro"
+            ]
+        },
+        {
+            "pergunta": "Como funciona a recomendação pra empresas?",
+            "resposta": "Quando uma empresa cadastra uma necessidade, comparamos com o que está no seu perfil (serviços, tecnologias e segmentos) e sua startup pode aparecer nas recomendações dela.",
+            "palavras_chave": [
+                "recomendacao",
+                "recomenda",
+                "empresa",
+                "empresas",
+                "necessidade",
+                "startup"
+            ]
+        },
+        {
+            "pergunta": "Como o matchmaking avalia a compatibilidade?",
+            "resposta": "Comparamos os serviços e tecnologias que você pediu com o que cada startup entrega, o segmento em que ela já atua e as palavras-chave da descrição da sua necessidade. Cada recomendação vem com uma justificativa clara e nenhuma startup recebe nota negativa.",
+            "palavras_chave": [
+                "matchmaking",
+                "match",
+                "compatibilidade",
+                "avalia",
+                "nota",
+                "justificativa",
+                "recomendacao"
+            ]
+        },
+        {
+            "pergunta": "Preciso criar conta para pesquisar startups?",
+            "resposta": "Não. A busca e os filtros avançados por tecnologias, serviços e segmentos são abertos para qualquer visitante. O cadastro gratuito é necessário para visualizar os nomes e perfis completos das startups.",
+            "palavras_chave": [
+                "conta",
+                "pesquisar",
+                "pesquisa",
+                "busca",
+                "filtro",
+                "filtros",
+                "visitante",
+                "startups"
+            ]
+        },
+        {
+            "pergunta": "O que exige cadastro?",
+            "resposta": "Visualizar os dados e perfis completos das startups, salvar favoritas, cadastrar necessidades e solicitar matchmaking.",
+            "palavras_chave": [
+                "cadastro",
+                "exige",
+                "favoritas",
+                "favorito",
+                "perfil",
+                "perfis",
+                "matchmaking"
+            ]
+        }
+    ]
+}
